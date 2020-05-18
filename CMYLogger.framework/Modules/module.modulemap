@@ -1,0 +1,6 @@
+framework module CMYLogger {
+  umbrella header "CMYLogger.h"
+
+  export *
+  module * { export * }
+}
